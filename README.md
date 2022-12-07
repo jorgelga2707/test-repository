@@ -57,3 +57,21 @@ git add --all
 git commit -m "cambios de la rama semana01"
 git push origin semana01
 ```
+
+## Para clonar un repositorio
+
+```
+git clone https://github.com/12aptor/CODIGO-G19.git
+```
+
+## Para descargar cambios a nivel de repositorio
+
+```
+git fetch
+```
+
+## Para descargar cambios `dentro de una rama`
+
+```
+git pull origin semana02
+```
